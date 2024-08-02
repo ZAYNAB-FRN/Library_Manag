@@ -147,3 +147,10 @@ QT_Library_Manag/
 ├── Library.pro.user.79cbd9a
 ├── Library.pro.user.fe6540e
 ```
+
+
+## contact
+For any questions or informations:
+- **linkedin**:<a href="www.linkedin.com/in/zaynab-farina-a377841a6" target="_blank">Zaynab Farina</a><br>
+- **Email**: `zaynab.zizi.67@gmail.com`
+
